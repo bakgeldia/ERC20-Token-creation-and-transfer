@@ -8,4 +8,4 @@ Blockchain Technologies - Assignment #2
 
 
 ## License
-OpenZeppelin Contracts is released under the [MIT License](LICENSE).
+Contract is released under the [MIT License](LICENSE).
