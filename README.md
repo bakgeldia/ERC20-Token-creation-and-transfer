@@ -29,6 +29,9 @@ Next, function approve that allows how much spender can spend on the behalf of t
 Then, event 'Approval' is created with the address of the owner and spender, and value. The event is emited in the function 'approve'.
 <br><img src="screenshots/8.png">
 
+Last function that does the delegated transfer is 'transferFrom' with parameters of owner's and recipient's addresses, and value(amount of tokens). First, the function will check that the owner has enough token to transfer. After, it will check allowance. If the condition is true, balance of the recipient will increase by the value recieved, and the balance of the owner(sender) will be decreased by the value sended. Also, 'Approval' event is emitted inside the function.
+<br><img src="screenshots/9.png">
+
 ## Examples
 
 
