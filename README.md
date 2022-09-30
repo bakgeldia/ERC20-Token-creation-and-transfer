@@ -26,6 +26,9 @@ Delegated transfer allows another address to spend tokens on behalf of another a
 Next, function approve that allows how much spender can spend on the behalf of the owner(sender).
 <br><img src="screenshots/7.png">
 
+Then, event 'Approval' is created with the address of the owner and spender, and value. The event is emited in the function 'approve'.
+<br><img src="screenshots/8.png">
+
 ## Examples
 
 
