@@ -4,7 +4,7 @@ Blockchain Technologies - Assignment #2
 ## Usage
 ### ERC20 Token creation
 Here is the code of creating the ERC20 standard token with initial supply of 2000 tokens in a contract named 'AITU_Bakgeldi'.
-<br><img src="screenshots/1.png" width = "100px" height="100px">
+<br><img src="screenshots/1.png" width = "1000px" height="1000px">
 
 ## Examples
 
