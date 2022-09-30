@@ -23,6 +23,8 @@ While creating the 'transfer' function, the event Transfer should be created and
 Delegated transfer allows another address to spend tokens on behalf of another address. New variable is created with the nested mapping, where mapping of address maps to adress that maps to integer. So, outer address will be the owner of the token, and for each token owner we can have a nested mapping with the address of spender and it will map to how much the spender can spend tokens on the behalf of the owner.
 <br><img src="screenshots/6.png">
 
+Next, function approve that allows how much spender can spend on the behalf of the owner(sender).
+<br><img src="screenshots/7.png">
 
 ## Examples
 
