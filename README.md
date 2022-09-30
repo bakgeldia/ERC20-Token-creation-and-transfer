@@ -46,7 +46,7 @@ Connected to the BnB Smart Chain testnet with updated balance.
 <br><img src="screenshots/12.png" width="400" height="320">
 
 Go to deployment tab in the Remix-Ethereum IDE. Change environment to Injected Provider - Metamask, and connect. 
-<br><img src="screenshots/13.png" width="200" height="400">
+<br><img src="screenshots/13.png" width="300" height="400">
 
 Click Deploy and confirm the gas spend for the process.
 <br><img src="screenshots/14.png" width="200" height="400">
