@@ -35,7 +35,7 @@ Last function that does the delegated transfer is 'transferFrom' with parameters
 ## Examples
 ### Deploying contract to BnB Chain
 Install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>Metamask</a> extension for the Google Chrome.
-<br><img src="screenshots/10.png" width="200" height="400" >
+<br><img src="screenshots/10.png" width="250" height="400" >
 
 Testnet of BnB Smart Chain - a safe playground that you can use when you develop smart contract on Binance Smart Chain. In order to deploy our smart contract, we need testnet BnB tokens. For that <a href='https://testnet.binance.org/faucet-smart'>Binance Smart Chain Faucet</a> is used. Copy the address of the account and put it in the Binance Smart Chain Faucet, press 'Give me BNB' button.
 
@@ -49,7 +49,16 @@ Go to deployment tab in the Remix-Ethereum IDE. Change environment to Injected P
 <br><img src="screenshots/13.png" width="300" height="400">
 
 Click Deploy and confirm the gas spend for the process.
-<br><img src="screenshots/14.png" width="200" height="400">
+<br><img src="screenshots/14.png" width="250" height="400">
+
+In the Deployed contract part, we can get the balance of the owner address. Now the balance of the owner is 2000 to the power of 18.
+<br><img src="screenshots/15.png" width="250" height="400">
+
+To send some BnB token to another address, generate an address on <a href='https://vanity-eth.tk/'>VANITY-ETH</a>. Copy and paste it in the field of 'transfer' on Deployed Contracts part. After comma specify the value(in my example, it is 100).
+<br><img src="screenshots/15.png" width="300" height="100">
+
+Press 'transfer' button and confirm it on Metamask pop-up.
+<br><img src="screenshots/16.png" width="250" height="400">
 
 ## License
 Contract is released under the [MIT License](LICENSE).
