@@ -9,6 +9,10 @@ First, here is the code of creating the ERC20 standard token with initial total 
 Then constructor is created for msg.sender(admin), who has initial supply.
 <br><img src="screenshots/2.png">
 
+###Implementation of functionality to transfer from one account to another
+Below is the code of the function to read the balance of any adderss.
+<br><img src="screenshots/3.png">
+
 
 ## Examples
 
