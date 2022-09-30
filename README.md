@@ -40,16 +40,16 @@ Install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogae
 Testnet of BnB Smart Chain - a safe playground that you can use when you develop smart contract on Binance Smart Chain. In order to deploy our smart contract, we need testnet BnB tokens. For that <a href='https://testnet.binance.org/faucet-smart'>Binance Smart Chain Faucet</a> is used. Copy the address of the account and put it in the Binance Smart Chain Faucet, press 'Give me BNB' button.
 
 Open Metamask and add custom network. Fill with the data below.
-<br><img src="screenshots/11.png" width="400" height="350">
+<br><img src="screenshots/11.png" width="400" height="320">
 
 Connected to the BnB Smart Chain testnet with updated balance.
-<br><img src="screenshots/12.png">
+<br><img src="screenshots/12.png" width="400" height="320">
 
 Go to deployment tab in the Remix-Ethereum IDE. Change environment to Injected Provider - Metamask, and connect. 
-<br><img src="screenshots/13.png">
+<br><img src="screenshots/13.png" width="200" height="400">
 
 Click Deploy and confirm the gas spend for the process.
-<br><img src="screenshots/14.png">
+<br><img src="screenshots/14.png" width="200" height="400">
 
 ## License
 Contract is released under the [MIT License](LICENSE).
