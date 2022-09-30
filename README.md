@@ -60,5 +60,8 @@ To send some BnB token to another address, generate an address on <a href='https
 Press 'transfer' button and confirm it on Metamask pop-up.
 <br><img src="screenshots/17.png" width="250" height="400">
 
+Now, if we look at the balance of the recipient address, it shows 100 - the value that the owner sended to this address.
+<br><img src="screenshots/18.png" width="300" height="100">
+
 ## License
 Contract is released under the [MIT License](LICENSE).
