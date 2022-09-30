@@ -35,7 +35,7 @@ Last function that does the delegated transfer is 'transferFrom' with parameters
 ## Examples
 ### Deploying contract to BnB Chain
 Install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>Metamask</a> extension for the Google Chrome.
-<br><img src="screenshots/10.png" width="100" height="300" >
+<br><img src="screenshots/10.png" width="200" height="400" >
 
 Testnet of BnB Smart Chain - a safe playground that you can use when you develop smart contract on Binance Smart Chain. In order to deploy our smart contract, we need testnet BnB tokens. For that <a href='https://testnet.binance.org/faucet-smart'>Binance Smart Chain Faucet</a> is used. Copy the address of the account and put it in the Binance Smart Chain Faucet, press 'Give me BNB' button.
 
@@ -50,7 +50,6 @@ Go to deployment tab in the Remix-Ethereum IDE. Change environment to Injected P
 
 Click Deploy and confirm the gas spend for the process.
 <br><img src="screenshots/14.png">
-<br><img src="screenshots/15.png">
 
 ## License
 Contract is released under the [MIT License](LICENSE).
