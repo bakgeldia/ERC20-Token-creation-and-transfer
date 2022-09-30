@@ -37,7 +37,13 @@ Last function that does the delegated transfer is 'transferFrom' with parameters
 Install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>Metamask</a> extension for the Google Chrome.
 <br><img src="screenshots/10.png">
 
+Testnet of BnB Smart Chain - a safe playground that you can use when you develop smart contract on Binance Smart Chain. In order to deploy our smart contract, we need testnet BnB tokens. For that <a href='https://testnet.binance.org/faucet-smart'>Binance Smart Chain Faucet</a> is used. Copy the address of the account and put it in the Binance Smart Chain Faucet, press 'Give me BNB' button.
 
+Open Metamask and add custom network. Fill with the data below.
+<br><img src="screenshots/11.png">
+
+Connected to the BnB Smart Chain testnet with updated balance.
+<br><img src="screenshots/12.png">
 
 ## License
 Contract is released under the [MIT License](LICENSE).
