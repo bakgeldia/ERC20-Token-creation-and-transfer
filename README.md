@@ -55,10 +55,10 @@ In the Deployed contract part, we can get the balance of the owner address. Now 
 <br><img src="screenshots/15.png" width="250" height="400">
 
 To send some BnB token to another address, generate an address on <a href='https://vanity-eth.tk/'>VANITY-ETH</a>. Copy and paste it in the field of 'transfer' on Deployed Contracts part. After comma specify the value(in my example, it is 100).
-<br><img src="screenshots/15.png" width="300" height="100">
+<br><img src="screenshots/16.png" width="300" height="100">
 
 Press 'transfer' button and confirm it on Metamask pop-up.
-<br><img src="screenshots/16.png" width="250" height="400">
+<br><img src="screenshots/17.png" width="250" height="400">
 
 ## License
 Contract is released under the [MIT License](LICENSE).
