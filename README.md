@@ -33,6 +33,10 @@ Last function that does the delegated transfer is 'transferFrom' with parameters
 <br><img src="screenshots/9.png">
 
 ## Examples
+### Deploying contract to BnB Chain
+Install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>Metamask</a> extension for the Google Chrome.
+<br><img src="screenshots/10.png">
+
 
 
 ## License
