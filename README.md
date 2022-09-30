@@ -17,7 +17,7 @@ Next, here is the function to transfer token from one address to another address
 <br><img src="screenshots/4.png">
 
 While creating the 'transfer' function, the event Transfer should be created and emited in the function. In the event, 'indexed' means that we can filter the event from outside the blockchain. It takes all the event with the 'from' field equal for some value.
-<br><img src="screenshots/4.png">
+<br><img src="screenshots/5.png">
 
 ## Examples
 
