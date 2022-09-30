@@ -40,7 +40,7 @@ Install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogae
 Testnet of BnB Smart Chain - a safe playground that you can use when you develop smart contract on Binance Smart Chain. In order to deploy our smart contract, we need testnet BnB tokens. For that <a href='https://testnet.binance.org/faucet-smart'>Binance Smart Chain Faucet</a> is used. Copy the address of the account and put it in the Binance Smart Chain Faucet, press 'Give me BNB' button.
 
 Open Metamask and add custom network. Fill with the data below.
-<br><img src="screenshots/11.png">
+<br><img src="screenshots/11.png" width="400" height="350>
 
 Connected to the BnB Smart Chain testnet with updated balance.
 <br><img src="screenshots/12.png">
